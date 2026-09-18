@@ -31,7 +31,7 @@ Currently sharpening my automation and DevOps skills further through an **AWS & 
 | Category | Tools |
 |---|---|
 | 🧩 **Test Automation** | Cypress, Selenium WebDriver, Postman, k6, JMeter, HP LoadRunner, Zephyr |
-| 🔗 **APIs & Integration** | REST, JSON, XML, Swagger |
+| 🔗 **APIs & Integration** | REST, JSON |
 | ⚙️ **CI/CD & DevOps** | Jenkins, Git, GitLab |
 | 📊 **Monitoring** | Kibana, Grafana |
 | 📋 **Management** | Jira, Confluence |
