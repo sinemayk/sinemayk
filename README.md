@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%"/>
+<img src="./assets/banner.svg" width="100%"/>
 
 <a href="mailto:sinemayk@gmail.com"><img src="https://img.shields.io/badge/Email-sinemayk%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/sinemkirtac"><img src="https://img.shields.io/badge/LinkedIn-sinemkirtac-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -108,6 +108,6 @@ Currently sharpening my automation and DevOps skills further through an **AWS & 
 
 ### 💬 Open to Quality Assurance Engineer roles — always happy to connect!
 
-<img src="./footer.svg" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
 
 </div>
