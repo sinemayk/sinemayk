@@ -25,11 +25,13 @@ Category	Tools
 🖥️ OS	Windows, Linux
 <br/>
 💼 Experience Highlights
+
 🔹 AWS & DevOps Engineer Bootcamp (+ Playwright) — TechPro Education Europe · Online (2026 – 2027, in progress)
 Hands-on training in AWS cloud services, Linux, Python, Git/GitHub, and networking fundamentals
 Practiced Playwright test automation, including the Page Object Model (POM) and BDD
 Built a Playwright automation framework with fixtures, multi-user scenarios, and retry handling, running in GitHub Actions
 Built an n8n workflow that triggers Playwright test runs and sends pass/fail notifications to Slack
+
 🔹 Quality Assurance Engineer — Eurofunk GmbH · Berlin, Germany (2022 – 2025)
 Responsible for QA of backend, web, and API-based applications within agile Scrum teams
 Designed over 150 new test cases and refactored more than 400 existing ones to improve coverage and traceability
@@ -37,6 +39,7 @@ Built automated API tests with Postman and ran them in Jenkins pipelines
 Developed and maintained E2E test automation with Cypress and TypeScript
 Wrote K6 performance and load test scripts for GitLab CI/CD pipelines
 Mentored new QA team members
+
 🔹 Test Automation Engineer — Kemah Group · Istanbul, Turkey (2019)
 Built a Selenium WebDriver framework from scratch to automate manual regression testing for the first time
 🔹 Quality Assurance Engineer — TUBITAK · Kocaeli, Turkey (2010 – 2017)
